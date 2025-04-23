@@ -2,7 +2,7 @@
     "required_api_version": "^2.0.0",
     "name": "Terminal Runner",
     "description": "An extension that let's you run commands on a gui terminal",
-    "developer_name": "lighttigerXIV",
+    "developer_name": "MrJohnnyCake",
     "icon": "images/icon.png",
     "options": {
         "query_debounce": 0.05
@@ -20,7 +20,7 @@
             "type": "text",
             "name": "Terminal",
             "description": "The terminal that will be used",
-            "default_value": "/bin/gnome-terminal"
+            "default_value": "/usr/bin/ghostty"
         },
         {
             "id": "exec",
